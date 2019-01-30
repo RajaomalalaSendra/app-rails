@@ -40,3 +40,4 @@ category_one = Category.create(id: 1, name: "man")
 category_one = Category.create(id: 1, name: "man")
 category_one = Category.create(id: 1, name: "man")
 category_one = Category.create(id: 1, name: "man")
+# Ten commentaries
